@@ -1,0 +1,8 @@
+.pytest_cache
+.tox
+.venv
+venv
+.virtualenv
+.vscode
+__pycache__
+*.egg-info/

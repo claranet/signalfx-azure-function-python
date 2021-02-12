@@ -1,0 +1,2 @@
+# blackboxprotobuf is not compatible only with protobuf 3.10.0
+protobuf==3.10.0
