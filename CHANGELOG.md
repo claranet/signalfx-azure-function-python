@@ -1,4 +1,5 @@
-# Unreleased
+## 0.1.0 (February 22, 2021)
 
-Added:
-    * AZ-444: First version of signalfx-azure-function-python
+NEW FEATURES:
+* AZ-444: First version of signalfx-azure-function-python
+
