@@ -1,4 +1,4 @@
--c constraint.txt
 signalfx==1.1.13
 six==1.15.0
 azure-functions==1.6.0
+
