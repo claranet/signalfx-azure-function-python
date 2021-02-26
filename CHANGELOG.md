@@ -1,3 +1,8 @@
+## 1.0.0 (February 26, 2021)
+
+UPDATE:
+* AZ-444: Force protobuf to 1.5.1
+
 ## 0.1.0 (February 22, 2021)
 
 NEW FEATURES:
