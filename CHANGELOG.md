@@ -1,3 +1,9 @@
+## 1.0.1 Unreleased
+
+UPDATE:
+
+* AZ-435: Fix bad version number in version.py
+
 ## 1.0.0 (February 26, 2021)
 
 UPDATE:
